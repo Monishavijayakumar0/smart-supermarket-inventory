@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,Unit_Price,Stock_Quantity,Weekly_Sales,Reorder_Level,Stock_Status,Target_Stock,Suggested_Order_Quantity,Product_Length_cm,Product_Width_cm,Unit_Area_cm2,Total_Shelf_Area_cm2
+101,Rice,Grains,15.99,40,18,15,Sufficient,36,0,20,15,300,12000
+102,Milk,Dairy,4.5,8,35,20,Reorder,70,62,8,8,64,512
+103,Bread,Bakery,3.25,12,28,15,Reorder,56,44,25,15,375,4500
+104,Cooking Oil,Cooking,8.99,25,10,10,Sufficient,20,0,10,10,100,2500
+105,Sugar,Grains,5.49,30,14,12,Sufficient,28,0,12,10,120,3600
+106,Cereal,Breakfast,6.99,6,20,10,Reorder,40,34,18,20,360,2160
