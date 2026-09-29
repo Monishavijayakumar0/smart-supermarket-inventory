@@ -68,4 +68,4 @@ This project uses a small sample dataset for demonstration. The results and reco
 
 ## Author
 
-Monisha Vijay Kumar
+Monisha Vijaya Kumar
